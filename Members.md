@@ -1,7 +1,3 @@
-# UCSD Data Science Project 
-
-5 UCSD undergraduate students who are passionate about data science and biology. Creating machine learning models from open source databases. 
-
 ## Members:
 
 Seshu Mallina: 
@@ -19,8 +15,3 @@ Brandon Hui:
 Marcus Cheung: 
 
 Charvi Shukla: 
-
-
-[Project 1](Project1.md)
-
-[Literature Review](P1LiteratureReview.md)
