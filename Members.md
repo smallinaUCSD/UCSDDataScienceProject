@@ -17,3 +17,7 @@ Hi ! My name is Nehal Ambalkar and I am currently a freshman at UCSD pursuing a 
 **Marcus Cheung:** 
 
 **Charvi Shukla:**
+
+<img src="charvi.png" width="500"/>
+
+Hello! I am Charvi Shukla, and I am majoring in Math-Computer Science at UC San Diego. I joined this team to gain experience in applying skills from Math and CS into the data science domain. Data Science is not only important in revealing hidden patterns from large data, but it is also a very important application of Computer Science. In my free time, I enjoy drawing portraits of my friends! 
