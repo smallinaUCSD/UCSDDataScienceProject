@@ -14,7 +14,7 @@ Hi ! My name is Nehal Ambalkar and I am currently a sophomore at UCSD pursuing a
 
 **Brandon Hui:**
 
-<img src="FullSizeRender.jpeg" width="500">
+<img src="FullSizeRender.jpeg" width="500"/>
 
 Hey guys I am Brandon Hui and am currently a 3rd year majoring in Human Biology. I joined the team to understand and learn how data science can help us gain more insight about cancer by transforming raw data into trends. What I like to do in my free time is to hangout with friends and explore new places. 
 
