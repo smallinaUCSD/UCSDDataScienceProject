@@ -13,6 +13,7 @@ Hi! My name is Seshu Mallina and I am currently a 3rd year at UCSD pursuing a de
 Hi ! My name is Nehal Ambalkar and I am currently a sophomore at UCSD pursuing a degree in Human Biology. I joined this team to . I think data science is important . One fun fact about me is 
 
 **Brandon Hui:**
+
 <img src="FullSizeRender.jpeg" width="500">
 
 Hey guys I am Brandon Hui and am currently a 3rd year majoring in Human Biology. I joined the team to understand and learn how data science can help us gain more insight about cancer by transforming raw data into trends. What I like to do in my free time is to hangout with friends and explore new places. 
