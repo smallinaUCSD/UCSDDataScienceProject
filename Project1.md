@@ -6,11 +6,11 @@ Team Advisor: Kyle Shannon
 
 Team Leader and Lead Programmer: Seshu Mallina 
 
-Lead Researcher and Editor: Nehal Ambalkar
+Reserach Leader: Brandon Hui
+
+Editor: Nehal Ambalkar
 
 Research Assistant: Marcus Cheung
-
-Reserach Assistant: Brandon Hui
 
 Programming Assistant: Charvi Shukla 
 
