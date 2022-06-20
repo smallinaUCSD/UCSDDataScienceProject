@@ -8,9 +8,7 @@ Team Leader and Lead Programmer: Seshu Mallina
 
 Reserach Leader: Brandon Hui
 
-Editor: Nehal Ambalkar
-
-Research Assistant: Marcus Cheung
+Research Assistant and Editor: Marcus Cheung
 
 Programming Assistant: Charvi Shukla 
 

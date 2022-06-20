@@ -6,12 +6,6 @@
 
 Hi! My name is Seshu Mallina and I am currently a 3rd year at UCSD pursuing a degree in Biology with specialiation in Bioinformatics with a minor in Computer Science. I joined this team to learn more about data science and its applications on a biological domian. I think data science is important as one can take existing data and use mathematical and computational techniques to understand and make predictions. One fun fact about me is that I like the Brooklyn Nets. 
 
-**Nehal Ambalkar:**
-
-<img src="nehal.jpeg" width="500"/>
-
-Hi! My name is Nehal Ambalkar and I am currently a sophomore at UCSD pursuing a degree in Human Biology. I joined this team because I am interested in cancer and want to learn more about it. I think data science is important because it helps us better understand data and trends. One fun fact about me is I am a San Diego native. 
-
 **Brandon Hui:**
 
 <img src="brandon.jpeg" width="500"/>
