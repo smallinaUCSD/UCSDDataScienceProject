@@ -1,4 +1,4 @@
-# Project 1: 
+# Project 1: Diabetes Prediction 
 
 # Authors:
 
@@ -12,9 +12,15 @@ Research Assistant and Editor: Marcus Cheung
 
 Programming Assistant: Charvi Shukla 
 
+# Database:
+
+[Link to dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download)
+
 # Background Information 
 
 # Data 
+
+EDA: [Explority Data Analysis](https://docs.google.com/presentation/d/1rCZuqo5Ns-7VSw3bWxvkzCkhp2LggHIUJFtKmwGOUt8/edit#slide=id.p)
 
 # Data Visualization
 
